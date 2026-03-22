@@ -22,12 +22,29 @@
                 "--web-port",
                 "3000"
             ]
+        },
+        {
+            "name": "Frontend (Flutter Windows)",
+            "type": "dart",
+            "request": "launch",
+            "program": "${workspaceFolder}/frontend/lib/main.dart",
+            "cwd": "${workspaceFolder}/frontend",
+            "preLaunchTask": "flutter pub get",
+            "args": [
+                "-d",
+                "windows"
+            ]
         }
     ],
     "compounds": [
         {
             "name": "Full Stack",
             "configurations": ["Backend (Go)", "Frontend (Flutter Web)"],
+            "stopAll": true
+        },
+        {
+            "name": "Full Stack (Windows)",
+            "configurations": ["Backend (Go)", "Frontend (Flutter Windows)"],
             "stopAll": true
         }
     ]
