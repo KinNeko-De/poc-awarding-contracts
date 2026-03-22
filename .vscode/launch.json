@@ -17,6 +17,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/frontend/lib/main.dart",
             "cwd": "${workspaceFolder}/frontend",
+            "preLaunchTask": "flutter pub get",
             "args": [
                 "--web-port",
                 "3000"
