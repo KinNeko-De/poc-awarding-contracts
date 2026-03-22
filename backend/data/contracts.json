@@ -1,0 +1,122 @@
+[
+  {
+    "id": "contract-001",
+    "title": "Web Application Federal Office",
+    "description": "Development of a modern web application for the Federal Office for Information Security. The application must be responsive, accessible, and comply with BSI technical guidelines.",
+    "authority": "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+    "location": "Bonn",
+    "remote_possible": true,
+    "required_skills": ["React", "TypeScript", "REST API", "PostgreSQL"],
+    "deadline": "2026-05-15",
+    "estimated_value": "€ 120,000",
+    "duration": "12 months"
+  },
+  {
+    "id": "contract-002",
+    "title": "DevOps Consulting Digitalization",
+    "description": "Consulting and implementation of a CI/CD platform for multiple federal agencies. Includes container orchestration and infrastructure-as-code migration.",
+    "authority": "Bundesministerium des Innern (BMI)",
+    "location": "Berlin",
+    "remote_possible": true,
+    "required_skills": ["Kubernetes", "Docker", "Terraform", "AWS", "CI/CD"],
+    "deadline": "2026-04-30",
+    "estimated_value": "€ 200,000",
+    "duration": "18 months"
+  },
+  {
+    "id": "contract-003",
+    "title": "Backend Specialist Application",
+    "description": "Backend development for a new citizen service platform. The system must handle high load, comply with DSGVO, and integrate with existing legacy systems.",
+    "authority": "Bundesagentur für Arbeit (BA)",
+    "location": "Nuremberg",
+    "remote_possible": false,
+    "required_skills": ["Java", "Spring Boot", "PostgreSQL", "REST API"],
+    "deadline": "2026-06-01",
+    "estimated_value": "€ 95,000",
+    "duration": "10 months"
+  },
+  {
+    "id": "contract-004",
+    "title": "IT Security Analysis",
+    "description": "Comprehensive security audit and penetration testing of government IT infrastructure including web applications, networks, and internal services.",
+    "authority": "Bundesamt für Verfassungsschutz (BfV)",
+    "location": "Cologne",
+    "remote_possible": false,
+    "required_skills": ["Penetration Testing", "OWASP", "Linux"],
+    "deadline": "2026-05-01",
+    "estimated_value": "€ 75,000",
+    "duration": "6 months"
+  },
+  {
+    "id": "contract-005",
+    "title": "Database Migration Project",
+    "description": "Migration of legacy Oracle databases to PostgreSQL as part of the federal open-source strategy. Includes data migration, testing, and documentation.",
+    "authority": "Statistisches Bundesamt (Destatis)",
+    "location": "Wiesbaden",
+    "remote_possible": true,
+    "required_skills": ["PostgreSQL", "Oracle", "SQL"],
+    "deadline": "2026-07-01",
+    "estimated_value": "€ 60,000",
+    "duration": "8 months"
+  },
+  {
+    "id": "contract-006",
+    "title": "Mobile App Citizen Services",
+    "description": "Development of a cross-platform mobile application for citizen services. The app must run on iOS and Android, support offline functionality, and meet accessibility standards.",
+    "authority": "Stadt München",
+    "location": "Munich",
+    "remote_possible": true,
+    "required_skills": ["Flutter", "Dart", "iOS", "Android", "REST API"],
+    "deadline": "2026-05-20",
+    "estimated_value": "€ 110,000",
+    "duration": "14 months"
+  },
+  {
+    "id": "contract-007",
+    "title": "Cloud Migration Government Agency",
+    "description": "Migration of on-premise infrastructure to a hybrid cloud setup using AWS and Azure. Includes security hardening, cost optimization, and staff training.",
+    "authority": "Bundesdruckerei GmbH",
+    "location": "Berlin",
+    "remote_possible": true,
+    "required_skills": ["AWS", "Azure", "Terraform", "Docker"],
+    "deadline": "2026-06-15",
+    "estimated_value": "€ 180,000",
+    "duration": "15 months"
+  },
+  {
+    "id": "contract-008",
+    "title": "Go Microservices Platform",
+    "description": "Design and implementation of a microservices platform for a federal data exchange system. Services must communicate via gRPC, be containerized with Docker, and orchestrated via Kubernetes.",
+    "authority": "Registermodernisierung – BMI",
+    "location": "Berlin",
+    "remote_possible": true,
+    "required_skills": ["Go", "gRPC", "Docker", "Kubernetes", "Microservices", "REST API", "Linux"],
+    "deadline": "2026-05-31",
+    "estimated_value": "€ 250,000",
+    "duration": "24 months"
+  },
+  {
+    "id": "contract-009",
+    "title": "Frontend Procurement Portal",
+    "description": "Frontend development for the new federal procurement portal. Must integrate with the backend via a REST API and comply with WCAG 2.1 accessibility guidelines.",
+    "authority": "Beschaffungsamt des BMI",
+    "location": "Bonn",
+    "remote_possible": true,
+    "required_skills": ["Vue.js", "TypeScript", "REST API"],
+    "deadline": "2026-04-15",
+    "estimated_value": "€ 85,000",
+    "duration": "9 months"
+  },
+  {
+    "id": "contract-010",
+    "title": "Project Management Digitalization Initiative",
+    "description": "IT project management for a large-scale digitalization program coordinating multiple agencies. Requires experience with agile methods and IT governance.",
+    "authority": "Bundesministerium für Digitales (BMDV)",
+    "location": "Berlin",
+    "remote_possible": false,
+    "required_skills": ["Scrum", "Agile", "IT-Projektmanagement"],
+    "deadline": "2026-06-30",
+    "estimated_value": "€ 130,000",
+    "duration": "20 months"
+  }
+]
