@@ -1,1 +1,0 @@
- C:\\git\\github\\kinneko-de\\poc-awarding-contracts\\frontend\\build\\web\\manifest.json:  C:\\git\\github\\kinneko-de\\poc-awarding-contracts\\frontend\\web\\index.html C:\\git\\github\\kinneko-de\\poc-awarding-contracts\\frontend\\web\\manifest.json

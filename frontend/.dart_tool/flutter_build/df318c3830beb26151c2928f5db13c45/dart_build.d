@@ -1,1 +1,0 @@
- C:\\git\\github\\kinneko-de\\poc-awarding-contracts\\frontend\\.dart_tool\\flutter_build\\df318c3830beb26151c2928f5db13c45\\dart_build_result.json: 
