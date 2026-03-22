@@ -16,7 +16,7 @@ type matchRequest struct {
 
 // matchResponse is returned by POST /api/match.
 type matchResponse struct {
-	Profile models.Profile      `json:"profile"`
+	Profile models.Profile       `json:"profile"`
 	Matches []models.MatchResult `json:"matches"`
 }
 
